@@ -1,4 +1,4 @@
-import robertaPortrait from "../imports/About-Roberta.png";
+const robertaPortrait = "/assets/About-Roberta.png";
 import Navigation from "../components/Navigation";
 import SiteFooter from "../components/SiteFooter";
 
