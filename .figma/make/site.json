@@ -1,0 +1,10 @@
+{
+  "description": "No end-user application functionality is specified; this project focuses on initial import setup and deployment readiness for Figma Make.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

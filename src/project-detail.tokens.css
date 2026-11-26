@@ -1,0 +1,46 @@
+:root {
+  /* Primitives.Black */
+  --Primitives-Black-100: rgb(35 31 32 / 0.25);
+  --Primitives-Black-300: rgb(35 31 32 / 0.5);
+  --Primitives-Black-500: rgb(35 31 32 / 0.75);
+  --Primitives-Black-700: #231f20;
+
+  /* Primitives.Blue */
+  --Primitives-Blue-500: rgb(2 159 250 / 0.5);
+  --Primitives-Blue-700: #029ffa;
+
+  /* Primitives.Lime and Primitives.White */
+  --Primitives-Lime-700: #d9ff76;
+  --Primitives-White-700: #ebefe0;
+
+  /* Semantic.Background */
+  --Semantic-Background-primary: var(--Primitives-Black-700);
+  --Semantic-Background-secondary: var(--Primitives-Blue-700);
+  --Semantic-Background-overlay: var(--Primitives-Black-500);
+  --Semantic-Background-overlay-secondary: var(--Primitives-Blue-500);
+
+  /* Semantic.Text */
+  --Semantic-Text-primary: var(--Primitives-White-700);
+  --Semantic-Text-secondary: var(--Primitives-Lime-700);
+
+  /* Typography-styles.Text.Display */
+  --Typography-styles-Text-Display-font-family: "Gasoek One:Regular", sans-serif;
+  --Typography-styles-Text-Display-font-weight: 400;
+  --Typography-styles-Text-Display-font-size: 128px;
+  --Typography-styles-Text-Display-line-height: 115px;
+  --Typography-styles-Text-Display-letter-spacing: 0;
+
+  /* Typography-styles.Text.Heading 2 */
+  --Typography-styles-Text-Heading-2-font-family: "Anybody:SemiBold", sans-serif;
+  --Typography-styles-Text-Heading-2-font-weight: 600;
+  --Typography-styles-Text-Heading-2-font-size: 40px;
+  --Typography-styles-Text-Heading-2-line-height: normal;
+  --Typography-styles-Text-Heading-2-letter-spacing: 0;
+
+  /* Typography-styles.Text.Body */
+  --Typography-styles-Text-Body-font-family: "Anybody:Regular", sans-serif;
+  --Typography-styles-Text-Body-font-weight: 400;
+  --Typography-styles-Text-Body-font-size: 24px;
+  --Typography-styles-Text-Body-line-height: normal;
+  --Typography-styles-Text-Body-letter-spacing: 0;
+}
