@@ -4,7 +4,11 @@ import Navigation from "../components/Navigation";
 import SiteFooter from "../components/SiteFooter";
 
 const projects = [
-  { href: "/works/abeyance", title: "01 Abeyance", image: "1165c.png" },
+  {
+    href: "/works/abeyance",
+    title: "01 Abeyance",
+    image: "projects/abeyance/abeyance-image-1.png",
+  },
   { href: "/work/loop-magazine", title: "02 Loop Magazine", image: "d0116.png" },
   { href: "/work/since-you-been-gone", title: "03 Since you been gone", image: "29462.png" },
   { href: "/works/Osaka Suppliers Catalogue", title: "04 Osaka suppliers catalogue", image: "e9bd1.png" },
